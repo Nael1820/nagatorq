@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-63
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "mark idle"
+		},
+		{
+			"offsets": [
+				244,
+				-13
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "mark left"
+		},
+		{
+			"offsets": [
+				83,
+				100
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "mark up"
+		},
+		{
+			"offsets": [
+				80,
+				-55
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "mark right"
+		},
+		{
+			"offsets": [
+				93,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "mark down"
+		},
+		{
+			"offsets": [
+				83,
+				100
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "mark ora"
+		},
+		{
+			"offsets": [
+				-6,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "gambare",
+			"loop": false,
+			"name": "mark gambare"
+		},
+		{
+			"offsets": [
+				79,
+				-56
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "sen",
+			"loop": false,
+			"name": "mark sen"
+		},
+		{
+			"offsets": [
+				79,
+				-56
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "pai",
+			"loop": false,
+			"name": "mark pai"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/marktoro assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "naga",
+	"flip_x": false,
+	"healthbar_colors": [
+		114,
+		94,
+		145
+	],
+	"camera_position": [
+		-70,
+		0
+	],
+	"sing_duration": 16.1,
+	"scale": 1
+}
